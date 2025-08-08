@@ -65,14 +65,10 @@ By using all four tools on the same dataset, I gained **hands-on practical exper
 
 ##  Power BI Dashboard
 
-**File:** `PowerBI-Dashboard/blinkit_dashboard.pbix`
-
 - Interactive dashboard built to show:
   - KPIs: Total Sales, Average Sales, Number of Items, Average Rating
   - Sales by Item Type, Fat Content, Outlet Type, Location, and Size
   - Stacked bar charts, matrix cards, and donut charts
-
-[View Dashboard PDF](PowerBI-Dashboard/blinkit_dashboard.pdf)
 
 ---
 
