@@ -72,7 +72,7 @@ By using all four tools on the same dataset, I gained **hands-on practical exper
   - Sales by Item Type, Fat Content, Outlet Type, Location, and Size
   - Stacked bar charts, matrix cards, and donut charts
 
-![Dashboard Preview](Blinkit Data Analysis/Blinkit Data analysis Dashboard/blinkit dashboard.pdf)
+![Dashboard Preview]("Blinkit Data Analysis/Blinkit Data analysis Dashboard/blinkit dashboard.pdf")
 
 ---
 
